@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "ST-84-Solution",
-    "slug": "ST-84-Solution",
+    "name": "ST-87-Solution",
+    "slug": "ST-87-Solution",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
